@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads latest Google Chrome enterprise package and renames it based on the Chrome version. Then, uploads to the Jamf Pro Server.</string>
+	<string>Downloads latest Microsoft Teams package. Then, uploads to the Jamf Pro Server.</string>
 	<key>Identifier</key>
 	<string>com.github.lgalvez338.microsoftteams.jss-upload.microsoftteams</string>
 	<key>Input</key>
